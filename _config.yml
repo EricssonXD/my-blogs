@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My Website
+title: Ericsson's Blogging Website
 
 # Your name to show in the footer
-author: Some Person
+author: Ericsson
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Hello"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -247,7 +247,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Hong Kong"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
